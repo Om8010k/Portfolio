@@ -6,6 +6,4 @@ Tech Stack :-
 1) HTML
 2) CSS
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-   
+
